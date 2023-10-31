@@ -2,7 +2,7 @@
   "keyboard_name": "Vault 45 Alpha",
   "manufacturer": "Baconspoon",
   "maintainer": "baconspoon85",
-  "url": "https://github.com/baconspoon85/phoenix45_alpha/tree/main/Vault45_Alpha",
+  "url": "https://github.com/baconspoon85/vial-qmk/tree/vial/keyboards/baconspoon85/vault45_alpha",
   "processor": "",
   "bootloader": "",
   "usb": {
