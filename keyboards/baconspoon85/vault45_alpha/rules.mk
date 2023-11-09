@@ -12,11 +12,11 @@ BOOTLOADER = atmel-dfu
 BOOTMAGIC_ENABLE = no # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = yes # Mouse keys
 EXTRAKEY_ENABLE = yes # Audio control and System control
-CONSOLE_ENABLE = yes # Console for debug
+CONSOLE_ENABLE = no # Console for debug
 COMMAND_ENABLE = no # Commands for debug and configuration
 NKRO_ENABLE = yes # Enable N-Key Rollover
 
-LTO_ENABLE = no
+LTO_ENABLE = yes
 KEY_LOCK_ENABLE = yes
 WPM_ENABLE = no
 COMBO_ENABLE = yes
@@ -25,10 +25,10 @@ COMBO_ENABLE = yes
 ENCODER_ENABLE = yes
 
 # OLED
-OLED_ENABLE = yes
-OLED_DRIVER = SSD1306
+# OLED_ENABLE = yes
+# OLED_DRIVER = SSD1306
 
 # trackpoint
-PS2_MOUSE_ENABLE = yes
-PS2_ENABLE = yes
-PS2_DRIVER = usart
+# PS2_MOUSE_ENABLE = yes
+# PS2_ENABLE = yes
+# PS2_DRIVER = usart

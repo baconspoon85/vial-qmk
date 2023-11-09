@@ -2,7 +2,7 @@
     "keyboard_name": "Good Delivery",
     "manufacturer": "baconspoon",
     "maintainer": "baconspoon85",
-    "url": "https://github.com/baconspoon85/vial-qmk/tree/vial/keyboards/baconspoon85/good_delivery",
+    "url": "https://github.com/baconspoon85/Good-Delivery",
     "processor": "RP2040",
     "bootloader": "rp2040",
     "usb": {

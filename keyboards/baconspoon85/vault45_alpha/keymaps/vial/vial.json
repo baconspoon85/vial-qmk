@@ -2,7 +2,7 @@
 	"name": "Vault 45 Alpha",
   "matrix": {
 		"rows": 4,
-		"cols": 10
+		"cols": 12
 	},
 	"layouts": {
 		"labels": [
